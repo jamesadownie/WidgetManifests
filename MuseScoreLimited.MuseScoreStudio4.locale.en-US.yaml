@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.5.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: MuseScoreLimited.MuseScoreStudio4
+PackageVersion: 4.4.2.242570931
+PackageLocale: en-US
+Publisher: MuseScore Limited
+PackageName: MuseScore Studio 4
+License: MuseScore Studio, free and open source music notation software. Copyright (C) 1999-2024 MuseScore Limited and others
+ShortDescription: MusicScore is an open source and free music notation software
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
